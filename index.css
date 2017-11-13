@@ -1,0 +1,9 @@
+.toolbar li {
+        display: inline; /* Отображать как строчный элемент */
+        background-color: #EEE; /*button color*/
+        margin-right: 150px; /* Отступ справа */
+        border: 1px solid; /* Рамка вокруг текста */
+        border-color: #F3F3F3 #BBB #BBB #F3F3F3;
+         /*size between button*/
+        padding: 25px; /* button size */
+       }
